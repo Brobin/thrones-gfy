@@ -1,0 +1,21 @@
+
+    </div>
+
+    <script type="text/javascript">
+    var video = document.getElementById("preview");
+
+    function hoverListener(evt) {
+      var sources = video.getElementsByTagName('source');
+      sources[0].src = evt.target.href.replace("//", "//zippy.") + ".webm";
+      sources[1].src = evt.target.href.replace("//", "//giant.") + ".webm";
+      sources[2].src = evt.target.href.replace("//", "//fat.") + ".webm";
+      video.load();
+    };
+
+    var links = document.getElementsByClassName("gif");
+    for(var i=0; i<links.length; i++) {
+      links[i].addEventListener("mouseover", hoverListener);
+    }
+  </script>
+
+</body>

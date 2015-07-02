@@ -1,0 +1,203 @@
+/* line 29, ../sass/main.scss */
+.gfyCtrlBox, .gfyDotCanvas, gfyPreLoadCanvas {
+  display: none !important;
+}
+
+/* line 33, ../sass/main.scss */
+.gfyVid {
+  width: 300px !important;
+  height: 200px !important;
+}
+
+/* line 40, ../sass/main.scss */
+html {
+  background-color: #222222;
+}
+
+/* line 42, ../sass/main.scss */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 48, ../sass/main.scss */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #333333;
+}
+
+/* line 55, ../sass/main.scss */
+.page-header {
+  width: 300px;
+  height: 100%;
+  background-color: #222222;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  color: white;
+  font-size: 14px;
+  color: #888888;
+}
+@media (max-width: 600px) {
+  /* line 55, ../sass/main.scss */
+  .page-header {
+    position: static;
+    width: auto;
+    padding-bottom: 20px;
+  }
+}
+/* line 70, ../sass/main.scss */
+.page-header h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  color: white;
+  letter-spacing: -.05em;
+  font-size: 2rem;
+}
+/* line 77, ../sass/main.scss */
+.page-header .headings {
+  bottom: 0;
+  position: absolute;
+  margin: 10px;
+}
+/* line 83, ../sass/main.scss */
+.page-header .img-preview {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+@media (max-width: 600px) {
+  /* line 83, ../sass/main.scss */
+  .page-header .img-preview {
+    height: 300px;
+  }
+}
+@media (max-width: 500px) {
+  /* line 83, ../sass/main.scss */
+  .page-header .img-preview {
+    height: 250px;
+  }
+}
+@media (max-width: 400px) {
+  /* line 83, ../sass/main.scss */
+  .page-header .img-preview {
+    height: 200px;
+  }
+}
+/* line 95, ../sass/main.scss */
+.page-header .banner-img {
+  width: 100%;
+  z-index: 1;
+}
+/* line 100, ../sass/main.scss */
+.page-header .gif-preview {
+  width: 100%;
+  max-height: 600px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  display: none;
+}
+/* line 109, ../sass/main.scss */
+.page-header .gif-preview[src*=".gif"] {
+  display: block;
+}
+/* line 113, ../sass/main.scss */
+.page-header a {
+  color: #bb0000;
+  font-weight: bold;
+}
+
+/* line 119, ../sass/main.scss */
+.gif-listing {
+  margin-left: 300px;
+  padding: 20px;
+  overflow: hidden;
+}
+@media (max-width: 600px) {
+  /* line 119, ../sass/main.scss */
+  .gif-listing {
+    margin-left: 0;
+  }
+}
+/* line 128, ../sass/main.scss */
+.gif-listing > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  -moz-column-gap: 20px;
+  -moz-column-fill: auto;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 20px;
+  -webkit-column-fill: auto;
+  column-count: 3;
+  column-gap: 20px;
+  column-fill: auto;
+}
+@media (max-width: 1024px) {
+  /* line 128, ../sass/main.scss */
+  .gif-listing > ul {
+    -webkit-column-count: 2;
+    column-count: 2;
+  }
+}
+@media (max-width: 895px) {
+  /* line 128, ../sass/main.scss */
+  .gif-listing > ul {
+    -webkit-column-count: 1;
+    column-count: 1;
+  }
+}
+/* line 151, ../sass/main.scss */
+.gif-listing > ul > li {
+  background-color: #222222;
+  padding: 6px 10px;
+  margin: 0 0 20px 0;
+  text-transform: capitalize;
+  font-size: 24px;
+  -moz-column-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  column-break-inside: avoid;
+  color: #bb0000;
+}
+/* line 164, ../sass/main.scss */
+.gif-listing > ul > li > ul {
+  padding: 5px 0 0;
+  list-style: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* line 171, ../sass/main.scss */
+.gif-listing > ul > li > ul > li {
+  text-overflow: ellipsis;
+  width: 100%;
+  overflow: hidden;
+  font-size: 16px;
+  text-transform: none;
+  background-color: #333333;
+  padding: 0;
+  margin: 0 0 5px 0;
+}
+/* line 182, ../sass/main.scss */
+.gif-listing > ul > li > ul > li a {
+  color: #888888;
+  text-decoration: none;
+  display: block;
+  padding: 8px 10px;
+}
+/* line 189, ../sass/main.scss */
+.gif-listing > ul > li > ul > li:hover {
+  background-color: #1b1b1b;
+}
+/* line 192, ../sass/main.scss */
+.gif-listing > ul > li > ul > li:hover a {
+  color: #999999;
+}
