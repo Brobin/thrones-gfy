@@ -2,7 +2,7 @@
 
 Storage place for all my favorite Game of Thrones gifs (in glorious gfycat form). This is my own custom fork of jglovier/gifs completely dedicated to collecting GoT gifs. I borrowed some of the basic scss and layout ideas from him. For a broader collection of gifs, please check out [his repository](https://github.com/jglovier/gifs).
 
-## USage
+## Usage
 
 I went ahead and built a page generation script that will create a static html page out of imy list of gfys. First, you need to compile the sass to css. Then you generate the `index.html` page
 
