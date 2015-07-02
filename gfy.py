@@ -5,10 +5,15 @@ gfycats = {
         'To Pass the Bloody Gate': 'http://gfycat.com/ElasticCraftyGilamonster',
         'Youre the Worst': 'http://gfycat.com/MeagerElderlyHammerheadbird',
         'Shrug': 'http://gfycat.com/CandidExemplaryGreatargus',
+        'Not Today': 'http://gfycat.com/IdioticMajesticAmazontreeboa',
+    },
+    'Braavos': {
+        'Titan': 'http://gfycat.com/UnhappyEthicalAnnashummingbird',
     },
     'Bronn': {
         'No Cure': 'http://gfycat.com/InfamousSadCoypu',
         'You Wouldnt Know Him': 'http://gfycat.com/FatherlyGloriousBluefintuna',
+        'Yes and No': 'http://gfycat.com/InsignificantBrightGull',
     },
     'Cersei': {
         'Staredown': 'http://gfycat.com/SingleBoilingKinglet',
@@ -28,6 +33,10 @@ gfycats = {
         'Grammar': 'http://gfycat.com/PerkySplendidGordonsetter',
         'No Mercy': 'http://gfycat.com/SolidBabyishCats',
     },
+    'Drogon': {
+        'Lamb': 'http://gfycat.com/DeterminedRawBlackbuck',
+        'With Mom': 'http://gfycat.com/TinyRegularBrahmancow',
+    },
     'Game of Thrones': {
         'Winter is Coming': 'http://gfycat.com/ClearcutSharpGoose',
         'The Throne': 'http://gfycat.com/JoyfulShinyLadybird',
@@ -44,6 +53,7 @@ gfycats = {
     'Jamie': {
         'Thunk': 'http://gfycat.com/TenseAnotherBagworm',
         'Wave': 'http://gfycat.com/DenseQuaintAmericanindianhorse',
+        'Fantastic': 'http://gfycat.com/ValidDaringFlee',
     },
     'Jaqen': {
         'Many Faces': 'http://gfycat.com/UnlinedBeneficialAmericansaddlebred',
@@ -52,18 +62,23 @@ gfycats = {
     'Joffrey': {
         'Do You Like That?': 'http://gfycat.com/AnnualBowedHarlequinbug',
         'Never': 'http://gfycat.com/GrouchyAcceptableDuckbillcat',
+        'Swagger': 'http://gfycat.com/BigheartedEqualAustraliankelpie',
+        'Youre Perfect': 'http://gfycat.com/PlaintiveAnyGermanshorthairedpointer',
     },
     'Jon': {
         'You Know Nothing': 'http://gfycat.com/ContentLittleColt',
         'Valyrian Steel': 'http://gfycat.com/GrossDigitalIceblueredtopzebra',
         'Snow': 'http://gfycat.com/RespectfulSomberHerald',
         'Prove It': 'http://gfycat.com/InnocentHardBunny',
+        'The North Remembers': 'http://gfycat.com/ScalyFragrantAmericanriverotter',
+        'Save me, Jon Snow': 'http://gfycat.com/ShadyThriftyDinosaur',
     },
     'Jorah': {
         '360 Jorahscope': 'http://gfycat.com/CookedOpulentEchidna',
     },
     'Margaery': {
         'Staredown': 'http://gfycat.com/SingleBoilingKinglet',
+        'Smile': 'http://gfycat.com/BigheartedEqualAustraliankelpie',
     },
     'Ned': {
         'I Dont Fight in Tournaments': 'http://gfycat.com/QuerulousMaleIcefish',
@@ -79,6 +94,12 @@ gfycats = {
         'I Win': 'http://gfycat.com/RipeWeirdBrownbear',
         'Sausage': 'http://gfycat.com/MadShamefulDormouse',
     },
+    'Renly': {
+        'Is he a ham?': 'http://gfycat.com/ElegantTenseAmericanmarten',
+    },
+    'Robert': {
+        'Toast': 'http://gfycat.com/UnevenWhoppingAfricanhornbill',
+    },
     'Samwell': {
         'Nope': 'http://gfycat.com/OrderlyAnxiousDrever',
     },
@@ -86,13 +107,18 @@ gfycats = {
         'Robin Arryn Slap': 'http://gfycat.com/BreakableUncomfortableBlowfish',
         'Dark Sansa': 'http://gfycat.com/GloriousHomelyDamselfly',
         'I Just Realized': 'http://gfycat.com/MajesticFirsthandCusimanse',
-        'I Didn\'t Ruin It!': 'http://gfycat.com/MilkyLeadingGrebe',
+        'I Didnt Ruin It!': 'http://gfycat.com/MilkyLeadingGrebe',
+    },
+    'Syrio': {
+        'Not Today': 'http://gfycat.com/IdioticMajesticAmazontreeboa',
     },
     'Tyrion': {
         'No Cure': 'http://gfycat.com/InfamousSadCoypu',
         'I Wish I was the Monster': 'http://gfycat.com/BiodegradableShoddyDoctorfish',
         'Thunk': 'http://gfycat.com/TenseAnotherBagworm',
         'Pouring Wine': 'http://gfycat.com/AccurateTepidBengaltiger',
+        'Yes and No': 'http://gfycat.com/InsignificantBrightGull',
+        'Wind in the belly': 'http://gfycat.com/BruisedEmbellishedAlbino',
     },
     'Tywin': {
         'The battle is over': 'http://gfycat.com/ScientificIdealisticBeaver',
@@ -105,10 +131,12 @@ gfycats = {
         'Winter is Coming': 'http://gfycat.com/ClearcutSharpGoose',
         'Deal With It': 'http://gfycat.com/ForthrightOrdinaryBuckeyebutterfly',
         'Valyrian Steel': 'http://gfycat.com/GrossDigitalIceblueredtopzebra',
+        'Boop': 'http://gfycat.com/AptThoseChevrotain',
     },
     'Ygritte': {
         'You know Nothing': 'http://gfycat.com/ContentLittleColt',
         'I Could Teach You': 'http://gfycat.com/ShadowyImpracticalFlee',
+        'Save me, Jon Snow': 'http://gfycat.com/ShadyThriftyDinosaur',
     }
 }
 
