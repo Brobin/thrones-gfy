@@ -14,6 +14,8 @@ gfycats = {
         'No Cure': 'http://gfycat.com/InfamousSadCoypu',
         'You Wouldnt Know Him': 'http://gfycat.com/FatherlyGloriousBluefintuna',
         'Yes and No': 'http://gfycat.com/InsignificantBrightGull',
+        'Blackwater Downvote': 'http://gfycat.com/SourUnluckyBactrian',
+        'Go Drink': 'http://gfycat.com/LividBewitchedGreatwhiteshark',
     },
     'Cersei': {
         'Staredown': 'http://gfycat.com/SingleBoilingKinglet',
@@ -23,6 +25,7 @@ gfycats = {
         '360 Jorahscope': 'http://gfycat.com/CookedOpulentEchidna',
         'Wink': 'http://gfycat.com/PinkVariableGuernseycow',
         'Let Me Kill This Man': 'http://gfycat.com/HideousConventionalCaribou',
+        'Deal With It': 'http://gfycat.com/TenseGrandioseIggypops',
     },
     'Daenerys': {
         '360 Jorahscope': 'http://gfycat.com/CookedOpulentEchidna',
@@ -83,6 +86,9 @@ gfycats = {
     'Ned': {
         'I Dont Fight in Tournaments': 'http://gfycat.com/QuerulousMaleIcefish',
     },
+    'Olly' : {
+        'Evil Twin': 'http://gfycat.com/SaltyMasculineIcelandicsheepdog',
+    },
     'Oberyn': {
         'I Will Be Your Champion': 'http://gfycat.com/MassiveMerryAlpineroadguidetigerbeetle',
         'The Mountain and the Viper': 'http://gfycat.com/VengefulLeadingAbalone',
@@ -118,7 +124,9 @@ gfycats = {
         'Thunk': 'http://gfycat.com/TenseAnotherBagworm',
         'Pouring Wine': 'http://gfycat.com/AccurateTepidBengaltiger',
         'Yes and No': 'http://gfycat.com/InsignificantBrightGull',
-        'Wind in the belly': 'http://gfycat.com/BruisedEmbellishedAlbino',
+        'Wine in the belly': 'http://gfycat.com/BruisedEmbellishedAlbino',
+        'Go Drink': 'http://gfycat.com/LividBewitchedGreatwhiteshark',
+        'For Your Troubles': 'http://gfycat.com/LinearShabbyEyas',
     },
     'Tywin': {
         'The battle is over': 'http://gfycat.com/ScientificIdealisticBeaver',
