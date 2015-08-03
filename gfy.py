@@ -108,6 +108,7 @@ gfycats = {
     },
     'Samwell': {
         'Nope': 'http://gfycat.com/OrderlyAnxiousDrever',
+        'Absolutely Nothing': 'http://gfycat.com/HandmadeUnacceptableIcelandichorse',
     },
     'Sansa': {
         'Robin Arryn Slap': 'http://gfycat.com/BreakableUncomfortableBlowfish',
